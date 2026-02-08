@@ -1,12 +1,14 @@
 ## Product Choice
+
 **1. Product name:** Wildberries.ru  
-**2. Link to the product's website:** https://www.wildberries.ru/  
+**2. Link to the product's website:** <https://www.wildberries.ru/>  
 **3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.  
 
 ## Main Components
+
 ![Wildberries Component Diagram](../../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
 
-[Wildberries Component Diagram Code](../../docs/diagrams/src/wildberries/architecture-component.puml)  
+[Wildberries Component Diagram Code](../../docs/diagrams/src/wildberries/architecture-component.puml)
 
 ### Five Components of the product: 
 
@@ -17,11 +19,13 @@
 **5. User Profile & Loyalty:** it manages customers' personal data. Furthermore, it tracks purchase histories, points accrual, and so on.
 
 ## Data flow
+
 ![Wildberries Sequence Diagram](../../docs/diagrams/out/wildberries/architecture-sequence/Sequence%20Diagram.svg)
 
 [Wildberries Sequence Diagram Code](../../docs/diagrams/src/wildberries/architecture-sequence.puml)
 
 ### Description of the group Preparation (Search & Cart)
+
 This group of sets describes the process of seraching for products (User browses catalog and selects items) and adding them to the cart (function Add to Cart).  
 
 **Sequence of steps:**
