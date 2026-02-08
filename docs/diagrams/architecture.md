@@ -47,6 +47,7 @@ This group of sets describes the process of seraching for products (User browses
 8. UI Update (Badge Counter).
 
 **Components, which talk to each other:**
+
 * **User:** searches for products and adds them to the cart
 * **Cart Service:** manages the state of the shopping cart, receives information about products
 * **Storefront Gateway:** it processes requests from the application.
@@ -59,6 +60,7 @@ This group of sets describes the process of seraching for products (User browses
 [Wildberries Deployment Diagram Code](../../docs/diagrams/src/wildberries/architecture-deployment.puml)
 
 **The components are deployed in a Physical View that includes several logical areas:**
+
 * **"device"**, which consists of Customer Smartphone, Partner Smartphone, User Computer, Web Browser, WB Enterprise Hardware
 * **Wildberries Global Infastructure (Primary DC / K8s)**, which consists of Edge / Ingress Layer, Computer Cluster / Microservices (E-Commerce Pods, Logistic & Ops Pods, Support Pods), In-Memory Cluster, Search Cluster, Event Bus Cluster, Storage & Database Cluster
 * **Financial & Logistics Ecosystems**

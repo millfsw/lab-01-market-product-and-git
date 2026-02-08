@@ -71,7 +71,7 @@ I chose the role of a full-stack developer because it has been my primary and mo
 - Linux Basics
 - Redis
 
-### Job posting 
+### Job posting
 
 - **First job posting**
   - Senior Full-stack Developer (PHP, Laravel, JQuery, Vue.js)
