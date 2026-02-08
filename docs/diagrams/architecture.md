@@ -10,7 +10,7 @@
 
 [Wildberries Component Diagram Code](../../docs/diagrams/src/wildberries/architecture-component.puml)
 
-### Five Components of the product: 
+### Five Components of the product
 
 **1. Auth & ID Service:** it manages authentication and authorization for all users and internal services. It also ensures secure access to the system.  
 **2. Catalog & Search Service:** it is responsible for displaying products in the marketplace to users. It helps users find the products they need by processing queries and applied filters.  
@@ -29,14 +29,22 @@
 This group of sets describes the process of seraching for products (User browses catalog and selects items) and adding them to the cart (function Add to Cart).  
 
 **Sequence of steps:**
+
 1. User browses catalog andselects items.
+
 2. Click "Add to Cart".
+
 3. RPC: addToCart(sku_id, qty).
-4. Update Session Cart
+
+4. Update Session Cart.
+
 5. HSET cart:{user_id} (TTL 7 days).
+
 6. OK.
+
 7. Cart Update (Total Price).
-8. UI Update (Badge Counter)
+
+8. UI Update (Badge Counter).
 
 **Components, which talk to each other:**
 * **User:** searches for products and adds them to the cart
@@ -59,9 +67,11 @@ This group of sets describes the process of seraching for products (User browses
 ## Assumptions
 
 1. I assume that all user applications (web and mobile) connect to the system through a single central component called the API Gateway, which helps control all incoming traffic and protect internal services.
+
 2. I assume that different databases (for the cart, for orders) are physically separated and located on different servers, so that a high load on one type of data does not slow down the operation of other parts of the system.
 
 ## Open questions
 
 1. How exactly does the system decide which specific internal server should process a user's request after it passes through the main gateway (API Gateway)?
+
 2. How exactly is the enormous volume of order data distributed among different physical database machines?

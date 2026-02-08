@@ -1,6 +1,7 @@
 ## Components and roles
 
 **IT Roles be Architecture Components:**
+
 - Auth & ID Service
   - Security Engineer
   - Back-end Engineer
