@@ -2,7 +2,7 @@
 
 **1. Product name:** Wildberries.ru  
 **2. Link to the product's website:** <https://www.wildberries.ru/>  
-**3. Short description of the product:** Wildberries.ru  is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.
+**3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.  
 
 ## Main Components
 
