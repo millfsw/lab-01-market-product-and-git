@@ -6,9 +6,9 @@
 
 ## Main Components
 
-![Wildberries Component Diagram](../../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
+![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
 
-[Wildberries Component Diagram Code](../../docs/diagrams/src/wildberries/architecture-component.puml)  
+[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
 
 ### Five Components of the product: 
 
@@ -20,9 +20,9 @@
 
 ## Data flow
 
-![Wildberries Sequence Diagram](../../docs/diagrams/out/wildberries/architecture-sequence/Sequence%20Diagram.svg)
+![Wildberries Sequence Diagram](../docs/diagrams/out/wildberries/architecture-sequence/Sequence%20Diagram.svg)
 
-[Wildberries Sequence Diagram Code](../../docs/diagrams/src/wildberries/architecture-sequence.puml)
+[Wildberries Sequence Diagram Code](../docs/diagrams/src/wildberries/architecture-sequence.puml)
 
 ### Description of the group Preparation (Search & Cart)
 
@@ -46,9 +46,9 @@ This group of sets describes the process of seraching for products (User browses
 
 ## Deployment
 
-![Wildberries Deployment Diagram](../../docs/diagrams/out/wildberries/architecture-deployment/Deployment%20Diagram.svg)
+![Wildberries Deployment Diagram](../docs/diagrams/out/wildberries/architecture-deployment/Deployment%20Diagram.svg)
 
-[Wildberries Deployment Diagram Code](../../docs/diagrams/src/wildberries/architecture-deployment.puml)
+[Wildberries Deployment Diagram Code](../docs/diagrams/src/wildberries/architecture-deployment.puml)
 
 **The components are deployed in a Physical View that includes several logical areas:**
 * **"device"**, which consists of Customer Smartphone, Partner Smartphone, User Computer, Web Browser, WB Enterprise Hardware
