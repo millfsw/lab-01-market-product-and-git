@@ -25,7 +25,7 @@
   - Back-end Engineer
   - CRM Specialist
   - Data Privacy Officer (DPO)
-  - Product Manager
+  - Product Manager 
 
 ## Roles and responsibilities
 
