@@ -6,13 +6,15 @@
 
 ## Main Components
 
-<<<<<<< HEAD
 ![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
-=======
-![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
 
-[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
->>>>>>> ce1a0a6a8d70ed3bcdff73246443dcd4ebbf5de7
+[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)
+
+**3. Short description of the product:** Wildberries.ru  is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.
+
+## Main Components
+
+![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
 
 [Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)
 
