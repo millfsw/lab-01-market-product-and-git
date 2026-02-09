@@ -1,16 +1,16 @@
 ## Product Choice
 
 **1. Product name:** Wildberries.ru  
-**2. Link to the product's website:** https://www.wildberries.ru/  
-**3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.  
+**2. Link to the product's website:** <https://www.wildberries.ru/>  
+**3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.
 
 ## Main Components
 
-![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
+![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
 
-[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
+[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)
 
-### Five Components of the product: 
+### Five Components of the product
 
 **1. Auth & ID Service:** it manages authentication and authorization for all users and internal services. It also ensures secure access to the system.  
 **2. Catalog & Search Service:** it is responsible for displaying products in the marketplace to users. It helps users find the products they need by processing queries and applied filters.  
@@ -29,6 +29,7 @@
 This group of sets describes the process of seraching for products (User browses catalog and selects items) and adding them to the cart (function Add to Cart).  
 
 **Sequence of steps:**
+
 1. User browses catalog andselects items.
 2. Click "Add to Cart".
 3. RPC: addToCart(sku_id, qty).
@@ -39,10 +40,14 @@ This group of sets describes the process of seraching for products (User browses
 8. UI Update (Badge Counter)
 
 **Components, which talk to each other:**
+
 * **User:** searches for products and adds them to the cart
+
 * **Cart Service:** manages the state of the shopping cart, receives information about products
+
 * **Storefront Gateway:** it processes requests from the application.
-* **Redis (Hot Data):** temporarily stores shopping cart data.  
+
+* **Redis (Hot Data):** temporarily stores shopping cart data.
 
 ## Deployment
 
@@ -51,6 +56,7 @@ This group of sets describes the process of seraching for products (User browses
 [Wildberries Deployment Diagram Code](../docs/diagrams/src/wildberries/architecture-deployment.puml)
 
 **The components are deployed in a Physical View that includes several logical areas:**
+
 * **"device"**, which consists of Customer Smartphone, Partner Smartphone, User Computer, Web Browser, WB Enterprise Hardware
 * **Wildberries Global Infastructure (Primary DC / K8s)**, which consists of Edge / Ingress Layer, Computer Cluster / Microservices (E-Commerce Pods, Logistic & Ops Pods, Support Pods), In-Memory Cluster, Search Cluster, Event Bus Cluster, Storage & Database Cluster
 * **Financial & Logistics Ecosystems**
