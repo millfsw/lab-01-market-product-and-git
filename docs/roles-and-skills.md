@@ -104,17 +104,27 @@ I chose the role of a full-stack developer because it has been my primary and mo
 ## Job market snapshot
 
 ### Skills that appear in several postings
+
 - JavaScript / JS ecosystem
+
 - Git
+
 - Experience with relational databases and SQL
+
 - Knowledge of PHP and one of its frameworks
+
 - Experience with REST APIs
 
 ### Skills specific to a single posting
+
 - Working with artificial intelligence (AI)
+
 - Specific C# / .NET stack technologies
+
 - Experience with MongoDB
+
 - Layout skills
+
 - Experience with RabbitMQ and Celery
 
 ## Personal reflection
