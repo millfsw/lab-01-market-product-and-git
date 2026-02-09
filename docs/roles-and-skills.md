@@ -1,6 +1,7 @@
 ## Components and roles
 
 **IT Roles be Architecture Components:**
+
 - Auth & ID Service
   - Security Engineer
   - Back-end Engineer
@@ -41,7 +42,7 @@
 
 **Tech skills that are required for these responsibilities:**  
 
-**1. Back-end Engineer:** programming languages ​​(Java, Go, Python), REST API development, working with microservices and message queues (Kafka, RabbitMQ).  
+**1. Back-end Engineer:** programming languages (Java, Go, Python), REST API development, working with microservices and message queues (Kafka, RabbitMQ).  
 **2. Frontend / Mobile Engineer:** React/Vue or Swift/Kotlin stack, state management (Redux/MobX), working with APIs and responsive layout.  
 **3. Database Administrator (DBA):** Deep SQL, DBMS administration (PostgreSQL, MySQL), query optimization, replication and backup setup.  
 **4. System Analyst:** UML/BPMN design, specification writing, working with Swagger and basic SQL for data analysis.  
@@ -53,6 +54,7 @@
 I chose the role of a full-stack developer because it has been my primary and most attractive goal since entering the IT field. I was drawn to this direction from the start, as I love programming and the idea of creating applications and websites for people
 
 ### Skills I already have
+
 - HTML
 - CSS
 - Make Static Webpage
@@ -62,13 +64,15 @@ I chose the role of a full-stack developer because it has been my primary and mo
 - Frontend Apps
 
 ### Skills I clearly lack
+
 - JavaScript
 - React
 - PostgreSQL
 - Linux Basics
 - Redis
 
-### Job posting:  
+### Job market snapshot
+
 - **First job posting**
   - Senior Full-stack Developer (PHP, Laravel, JQuery, Vue.js)
   - [Link to the posting](https://hh.ru/vacancy/130221063?query=Full+stack+developer&hhtmFrom=vacancy_search_list)
@@ -96,22 +100,30 @@ I chose the role of a full-stack developer because it has been my primary and mo
 - **Seventh job posting**
   - Full-stack developer (Laravel + Vue)
   - [Link to the posting](https://hh.ru/vacancy/129523693?query=Full+stack+developer&hhtmFrom=vacancy_search_list)
-  - **Skills:** Proficiency in PHP (Laravel) and JavaScript (Vue.js); Experience with relational databases (MySQL/MariaDB) and understanding of optimization principles; Ability to work with Git, Docker, and the Linux console; Experience with GraphQL and other frameworks (Symfony, React) is a plus; Tech stack: PHP 8+ (Laravel), MySQL, MariaDB, Vue.js (Vue 2, Vue 3), Vite, Docker, GitLab CI/CD, REST, GraphQL.
-
-## Job market snapshot
+  - **Skills:** Proficiency  in PHP (Laravel) and JavaScript (Vue.js); Experience with relational databases (MySQL/MariaDB) and understanding of optimization principles; Ability to work with Git, Docker, and the Linux console; Experience with GraphQL and other frameworks (Symfony, React) is a plus; Tech stack: PHP 8+ (Laravel), MySQL, MariaDB, Vue.js (Vue 2, Vue 3), Vite, Docker, GitLab CI/CD, REST, GraphQL.
 
 ### Skills that appear in several postings
+
 - JavaScript / JS ecosystem
+
 - Git
+
 - Experience with relational databases and SQL
+
 - Knowledge of PHP and one of its frameworks
+
 - Experience with REST APIs
 
 ### Skills specific to a single posting
+
 - Working with artificial intelligence (AI)
+
 - Specific C# / .NET stack technologies
+
 - Experience with MongoDB
+
 - Layout skills
+
 - Experience with RabbitMQ and Celery
 
 ## Personal reflection
