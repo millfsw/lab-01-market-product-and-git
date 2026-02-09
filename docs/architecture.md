@@ -8,7 +8,7 @@
 
 ![Wildberries Component Diagram](../../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
 
-[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
+[Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)
 
 ### Five Components of the product: 
 
@@ -39,6 +39,7 @@ This group of sets describes the process of seraching for products (User browses
 8. UI Update (Badge Counter)
 
 **Components, which talk to each other:**
+
 * **User:** searches for products and adds them to the cart
 
 * **Cart Service:** manages the state of the shopping cart, receives information about products
