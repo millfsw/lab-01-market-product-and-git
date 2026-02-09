@@ -100,7 +100,7 @@ I chose the role of a full-stack developer because it has been my primary and mo
 - **Seventh job posting**
   - Full-stack developer (Laravel + Vue)
   - [Link to the posting](https://hh.ru/vacancy/129523693?query=Full+stack+developer&hhtmFrom=vacancy_search_list)
-  - **Skills:** Proficiency in PHP (Laravel) and JavaScript (Vue.js); Experience with relational databases (MySQL/MariaDB) and understanding of optimization principles; Ability to work with Git, Docker, and the Linux console; Experience with GraphQL and other frameworks (Symfony, React) is a plus; Tech stack: PHP 8+ (Laravel), MySQL, MariaDB, Vue.js (Vue 2, Vue 3), Vite, Docker, GitLab CI/CD, REST, GraphQL.
+  - **Skills:** Proficiency  in PHP (Laravel) and JavaScript (Vue.js); Experience with relational databases (MySQL/MariaDB) and understanding of optimization principles; Ability to work with Git, Docker, and the Linux console; Experience with GraphQL and other frameworks (Symfony, React) is a plus; Tech stack: PHP 8+ (Laravel), MySQL, MariaDB, Vue.js (Vue 2, Vue 3), Vite, Docker, GitLab CI/CD, REST, GraphQL.
 
 ### Skills that appear in several postings
 
