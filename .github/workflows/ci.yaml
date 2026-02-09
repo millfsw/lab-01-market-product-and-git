@@ -26,3 +26,10 @@ jobs:
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           base-branch: main
+          config-file: |
+            {
+              "ignorePatterns": [
+                {"pattern": "^https?://stackoverflow\\.com"},
+                {"pattern": "^https?://.*\\.stackexchange\\.com"}
+              ]
+            }
