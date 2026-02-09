@@ -12,13 +12,11 @@
 
 ### Five Components of the product
 
-
 **1. Auth & ID Service:** it manages authentication and authorization for all users and internal services. It also ensures secure access to the system.  
 **2. Catalog & Search Service:** it is responsible for displaying products in the marketplace to users. It helps users find the products they need by processing queries and applied filters.  
 **3. Fintech & Payment Service:** it facilitates the acceptance of payments from customers using various methods. It is also responsible for processing transactions, such as refunds and other payouts.  
 **4. Order Management (OMS):** it tracks orders from the moment they're placed to the moment they're received. It also integrates other processes, such as inventory management.  
 **5. User Profile & Loyalty:** it manages customers' personal data. Furthermore, it tracks purchase histories, points accrual, and so on.
-
 
 ## Data flow
 
