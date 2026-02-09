@@ -1,6 +1,7 @@
 ## Components and roles
 
 **IT Roles be Architecture Components:**
+
 - Auth & ID Service
   - Security Engineer
   - Back-end Engineer
@@ -53,6 +54,7 @@
 I chose the role of a full-stack developer because it has been my primary and most attractive goal since entering the IT field. I was drawn to this direction from the start, as I love programming and the idea of creating applications and websites for people
 
 ### Skills I already have
+
 - HTML
 - CSS
 - Make Static Webpage
@@ -62,13 +64,15 @@ I chose the role of a full-stack developer because it has been my primary and mo
 - Frontend Apps
 
 ### Skills I clearly lack
+
 - JavaScript
 - React
 - PostgreSQL
 - Linux Basics
 - Redis
 
-### Job posting:  
+### Job posting
+
 - **First job posting**
   - Senior Full-stack Developer (PHP, Laravel, JQuery, Vue.js)
   - [Link to the posting](https://hh.ru/vacancy/130221063?query=Full+stack+developer&hhtmFrom=vacancy_search_list)
@@ -101,17 +105,27 @@ I chose the role of a full-stack developer because it has been my primary and mo
 ## Job market snapshot
 
 ### Skills that appear in several postings
+
 - JavaScript / JS ecosystem
+
 - Git
+
 - Experience with relational databases and SQL
+
 - Knowledge of PHP and one of its frameworks
+
 - Experience with REST APIs
 
 ### Skills specific to a single posting
+
 - Working with artificial intelligence (AI)
+
 - Specific C# / .NET stack technologies
+
 - Experience with MongoDB
+
 - Layout skills
+
 - Experience with RabbitMQ and Celery
 
 ## Personal reflection
