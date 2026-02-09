@@ -29,7 +29,6 @@ jobs:
           config-file: |
             {
               "ignorePatterns": [
-                {"pattern": "^https?://stackoverflow\\.com"},
-                {"pattern": "^https?://.*\\.stackexchange\\.com"}
+                {"pattern": "stackoverflow.com"},
               ]
             }
