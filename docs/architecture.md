@@ -6,13 +6,9 @@
 
 ## Main Components
 
-<<<<<<< HEAD
-![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
-=======
 ![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
 
 [Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
->>>>>>> ce1a0a6a8d70ed3bcdff73246443dcd4ebbf5de7
 
 [Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)
 
