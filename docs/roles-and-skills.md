@@ -41,7 +41,7 @@
 
 **Tech skills that are required for these responsibilities:**  
 
-**1. Back-end Engineer:** programming languages ​​(Java, Go, Python), REST API development, working with microservices and message queues (Kafka, RabbitMQ).  
+**1. Back-end Engineer:** programming languages (Java, Go, Python), REST API development, working with microservices and message queues (Kafka, RabbitMQ).  
 **2. Frontend / Mobile Engineer:** React/Vue or Swift/Kotlin stack, state management (Redux/MobX), working with APIs and responsive layout.  
 **3. Database Administrator (DBA):** Deep SQL, DBMS administration (PostgreSQL, MySQL), query optimization, replication and backup setup.  
 **4. System Analyst:** UML/BPMN design, specification writing, working with Swagger and basic SQL for data analysis.  
