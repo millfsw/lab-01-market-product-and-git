@@ -1,21 +1,12 @@
 ## Product Choice
 
 **1. Product name:** Wildberries.ru  
-<<<<<<< HEAD
 **2. Link to the product's website:** <https://www.wildberries.ru/>
 **3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.
 
 ## Main Components
 
 ![Wildberries Component Diagram](../../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
-=======
-**2. Link to the product's website:** https://www.wildberries.ru/  
-**3. Short description of the product:** Wildberries.ru is the largest international marketplace offering a wide range of products with convenient delivery through an extensive network of pickup points. It combines a convenient online shopping platform with effective business management and sales analytics tools.  
-
-## Main Components
-
-![Wildberries Component Diagram](../docs/diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)  
->>>>>>> c5d6ebee3806cfd62db161a2d0f800e36667b4f3
 
 [Wildberries Component Diagram Code](../docs/diagrams/src/wildberries/architecture-component.puml)  
 
